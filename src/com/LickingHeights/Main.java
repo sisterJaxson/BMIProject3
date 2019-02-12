@@ -16,7 +16,7 @@ public class Main {
 
         System.out.println("Hello! What is your name? ");
         userName = keyboard.nextLine();
-        System.out.println("How are you?");
+        System.out.println("Hi "+userName+" How are you?");
         userName = keyboard.nextLine();
         System.out.println("How tall are you? In inches.");
         userName = keyboard.nextLine();
